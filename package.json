@@ -1,6 +1,7 @@
 {
-  "name": "history-progress",
+  "name": "react-timeline-visualization",
   "version": "0.1.0",
+  "description": "Fancy timeline visualization",
   "private": true,
   "dependencies": {
     "@date-io/core": "^1.3.6",
